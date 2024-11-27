@@ -7,4 +7,6 @@ dependencies:
   - python(>=3.10)
   - pandas
   - matplotlib.pyplot
+  - jupyterlab
+  - conda
 prefix: C:\Users\montt\miniconda3\envs\dstoolbox
